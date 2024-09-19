@@ -1,4 +1,4 @@
-<img src="guvi1.png" alt="Italian Trulli">
+<img src="guvi1.png" alt="Italian Trulli" width="500" height="600">
 <h1 align="center" style="color:#FF5733;">Torasogh Pro Limited 🌟</h1>
 <p align="center" style="font-size:18px; color:#28B463;">
   This is an official licensed product for Bangladesh. Connected to the official <a href="https://torasogh.com" target="_blank" style="color:#2980B9;">Torasogh Website</a> by Tahan.
