@@ -1,4 +1,4 @@
-<img src="guvi1.png" alt="Italian Trulli" width="604px" height="806" style="display:block; margin:auto; background-color:#f0f0f0; padding:10px; border-radius:10px;">
+<img src="guvi1.png" alt="Italian Trulli" width="auto" height="auto" style="display:block; margin:auto; background-color:#f0f0f0; padding:10px; border-radius:10px;">
 
 <h1 align="center" style="color:#FF5733;">Torasogh Pro Limited 🌟</h1>
 <p align="center" style="font-size:18px; color:#28B463;">
