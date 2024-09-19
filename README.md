@@ -1,31 +1,29 @@
+<h1 align="center" style="color:#FF5733;">Torasogh Pro Limited 🌟</h1>
+<p align="center" style="font-size:18px; color:#28B463;">
+  This is an official licensed product for Bangladesh. Connected to the official <a href="https://torasogh.com" target="_blank" style="color:#2980B9;">Torasogh Website</a> by Tahan.
+</p>
 
-Memory updated
-Here's an enhanced version of your README.md for the GitHub repo "Torasogh Pro Limited":
+<h2 style="color:#E74C3C;">🚀 What is Torasogh Pro Limited?</h2>
+<p style="font-size:16px; color:#2C3E50;">
+  Torasogh Pro Limited offers cutting-edge solutions and services for the digital world, providing state-of-the-art products for individuals and businesses across Bangladesh.
+</p>
 
-Torasogh Pro Limited 🌟
-Official Licensed Product for Bangladesh
+<h2 style="color:#E74C3C;">🔥 Features</h2>
+<ul style="color:#2C3E50; font-size:16px;">
+  <li><strong>License Certified:</strong> Officially licensed product for Bangladesh.</li>
+  <li><strong>Tailored Solutions:</strong> Custom solutions designed for the Bangladeshi market.</li>
+  <li><strong>Scalable Architecture:</strong> Built with flexibility and scalability in mind.</li>
+  <li><strong>Future-Proof Technology:</strong> Using the latest tech stacks for innovation.</li>
+</ul>
 
-Welcome to Torasogh Pro Limited's repository! This project is developed under a licensed product for Bangladesh, connected to the official Torasogh Website by Tahan.
+<h2 style="color:#E74C3C;">💼 Official Website</h2>
+<p style="font-size:16px;">
+  Visit us at <a href="https://torasogh.com" target="_blank" style="color:#2980B9;">torasogh.com</a> for more information.
+</p>
 
-🚀 What is Torasogh Pro Limited?
-Torasogh Pro Limited offers cutting-edge solutions and services in the digital world, providing state-of-the-art products for individuals and businesses across Bangladesh. Whether you're a developer, entrepreneur, or digital enthusiast, this product is designed to cater to your needs.
-
-🔥 Features
-License Certified: Licensed product for Bangladesh ensuring quality and compliance.
-Tailored Solutions: Custom solutions designed for the Bangladeshi market.
-Scalable Architecture: Built with flexibility and scalability in mind.
-Future-Proof Technology: Utilizing the latest tech stacks to stay ahead of the curve.
-💼 Official Website
-Visit us at torasogh.com for more information about our products, services, and licensing details.
-
-🦾 Powered by:
-This repository and project are powered by Tahan's development expertise and contributions from the community.
-
-🤖 The Terminator's Code Section ⚡
-Our system has been fine-tuned and supercharged, much like the legendary Terminator himself! Here’s an example of the robust code that powers this amazing project:
-
-python
-Copy code
+<h2 style="color:#E74C3C;">🦾 The Terminator's Code Section ⚡</h2>
+<pre style="background-color:#F0F3F4; padding:15px; border-radius:10px; color:#2C3E50;">
+<code>
 class TorasoghTerminator:
     def __init__(self, name="Torasogh"):
         self.name = name
@@ -41,8 +39,14 @@ class TorasoghTerminator:
 terminator = TorasoghTerminator()
 terminator.activate()
 terminator.terminate_issue("low performance")
-🌍 Join Us
-Interested in contributing? Want to explore more? Feel free to fork, star, and explore our repository!
+</code>
+</pre>
 
-Let’s build something wonderful together. 🎉
+<h2 style="color:#E74C3C;">🌍 Join Us</h2>
+<p style="font-size:16px; color:#2C3E50;">
+  Interested in contributing? Want to explore more? Fork, star, and explore our repository!
+</p>
 
+<p align="center" style="font-size:18px; color:#28B463;">
+  Let's build something <strong>wonderful</strong> together. 🎉
+</p>
